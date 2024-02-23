@@ -8,6 +8,12 @@ from gtts import gTTS
 from mutagen.mp3 import MP3 # pip install mutagen
 import datetime
 
+# pip install pillow
+# pip install pygame
+# pip install openai
+# pip install SpeechRecognition
+# pip install gTTS
+# pip install mutagen
 # OpenAI API키는 제외함
 
 class ElderlyCareApp(tk.Tk):
